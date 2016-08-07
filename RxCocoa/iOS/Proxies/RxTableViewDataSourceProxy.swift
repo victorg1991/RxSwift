@@ -63,7 +63,7 @@ public class RxTableViewDataSourceProxy
     Required delegate method implementation.
     */
     public func numberOfSectionsInTableView(tableView: UITableView) -> Int {
-        return (_requiredMethodsDataSource ?? tableViewDataSourceNotSet).numberOfSectionsInTableView?(tableView) ?? 1
+        return (_requiredMethodsDataSource ?? tableViewDataSourceNotSet).numberOfSectionsInTableView?(tableView) ?? 0
     }
 
     /**
