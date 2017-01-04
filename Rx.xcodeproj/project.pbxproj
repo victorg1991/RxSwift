@@ -577,6 +577,7 @@
 		C83D73C91C1DBAEE003DC470 /* ScheduledItemType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C83D73B71C1DBAEE003DC470 /* ScheduledItemType.swift */; };
 		C83D73CA1C1DBAEE003DC470 /* ScheduledItemType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C83D73B71C1DBAEE003DC470 /* ScheduledItemType.swift */; };
 		C83D73CB1C1DBAEE003DC470 /* ScheduledItemType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C83D73B71C1DBAEE003DC470 /* ScheduledItemType.swift */; };
+		C83F369C1E1DB0A90045AE63 /* Tsts.swift in Sources */ = {isa = PBXBuildFile; fileRef = C83F369A1E1DB0510045AE63 /* Tsts.swift */; };
 		C849BE2B1BAB5D070019AD27 /* ObservableConvertibleType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C849BE2A1BAB5D070019AD27 /* ObservableConvertibleType.swift */; };
 		C849BE2C1BAB5D070019AD27 /* ObservableConvertibleType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C849BE2A1BAB5D070019AD27 /* ObservableConvertibleType.swift */; };
 		C849EF8B1C3195950048AC4A /* Variable+Driver.swift in Sources */ = {isa = PBXBuildFile; fileRef = C849EF8A1C3195950048AC4A /* Variable+Driver.swift */; };
@@ -1640,6 +1641,7 @@
 		C83D73B51C1DBAEE003DC470 /* InvocableType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InvocableType.swift; sourceTree = "<group>"; };
 		C83D73B61C1DBAEE003DC470 /* ScheduledItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduledItem.swift; sourceTree = "<group>"; };
 		C83D73B71C1DBAEE003DC470 /* ScheduledItemType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduledItemType.swift; sourceTree = "<group>"; };
+		C83F369A1E1DB0510045AE63 /* Tsts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tsts.swift; sourceTree = "<group>"; };
 		C849BE2A1BAB5D070019AD27 /* ObservableConvertibleType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObservableConvertibleType.swift; sourceTree = "<group>"; };
 		C849EF8A1C3195950048AC4A /* Variable+Driver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Variable+Driver.swift"; sourceTree = "<group>"; };
 		C84B38ED1BA433CD001B7D88 /* Generate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Generate.swift; sourceTree = "<group>"; };
@@ -2392,6 +2394,7 @@
 				C835091A1C38706D0027C24C /* SubjectConcurrencyTest.swift */,
 				C835091B1C38706D0027C24C /* VariableTest.swift */,
 				C835091C1C38706D0027C24C /* VirtualSchedulerTest.swift */,
+				C83F369A1E1DB0510045AE63 /* Tsts.swift */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -3589,6 +3592,7 @@
 				C835093C1C38706E0027C24C /* RxObjCRuntimeState.swift in Sources */,
 				C83509491C38706E0027C24C /* Observable+Extensions.swift in Sources */,
 				7FE849471C5D0D6A00845C0E /* UIRefreshControl+RxTests.swift in Sources */,
+				C83F369C1E1DB0A90045AE63 /* Tsts.swift in Sources */,
 				C835094A1C38706E0027C24C /* TestVirtualScheduler.swift in Sources */,
 				C83509501C38706E0027C24C /* DisposableTest.swift in Sources */,
 				C835094E1C38706E0027C24C /* BehaviorSubjectTest.swift in Sources */,
