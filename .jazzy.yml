@@ -163,6 +163,7 @@ custom_categories:
   - ScheduledItemType
 - name: RxSwift/Subjects
   children:
+  - AsyncSubject
   - BehaviorSubject
   - PublishSubject
   - ReplaySubject
